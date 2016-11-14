@@ -1,4 +1,6 @@
 {
   "muse/core.css": "https://muse-cdn.warnerartists.com/_static/local/styles/core.min.css",
-  "muse/store.css": "https://muse-cdn.warnerartists.com/_static/local/styles/store.min.css"
+  "muse/store.css": "https://muse-cdn.warnerartists.com/_static/local/styles/store.min.css",
+  "muse/nonie.css": "https://muse-cdn.warnerartists.com/_static/local/styles/enhanced_nonie.min.css",
+  "muse/main.js": "https://muse-cdn.warnerartists.com/_static/local/scripts/muse.min.js"
 }
