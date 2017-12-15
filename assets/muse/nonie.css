@@ -358,7 +358,7 @@
     .moduleMap .filters ul li a {
         font-size: 14px;
         min-height: 50px;
-        height: auto!important;
+        height: auto !important;
         height: 50px
     }
     .moduleMap .filters ul li a img {
@@ -761,7 +761,7 @@
         float: left;
         height: 30px;
         width: 30px;
-        background: url(/_static/local/images/sprite1a.png) no-repeat 0 -130px;
+        background: url(/_static/local/images/sprite1b.png) no-repeat 0 -130px;
         text-indent: -999999px
     }
     .socialAnchor a:hover {
@@ -802,6 +802,12 @@
     }
     .socialAnchor a.itunes:hover {
         background-position: -300px -340px
+    }
+    .socialAnchor a.snapchat {
+        background-position: -300px -370px
+    }
+    .socialAnchor a.snapchat:hover {
+        background-position: -300px -400px
     }
 }
 
@@ -828,7 +834,7 @@
         float: left;
         height: 30px;
         width: 30px;
-        background: url(/_static/local/images/sprite1a.png) no-repeat 0 -130px;
+        background: url(/_static/local/images/sprite1b.png) no-repeat 0 -130px;
         text-indent: -999999px
     }
     .socialAnchor a:hover {
@@ -869,6 +875,12 @@
     }
     .socialAnchor a.itunes:hover {
         background-position: -300px -340px
+    }
+    .socialAnchor a.snapchat {
+        background-position: -300px -370px
+    }
+    .socialAnchor a.snapchat:hover {
+        background-position: -300px -400px
     }
     .moduleNewsHome ul.repeater li.medObj.featItem .thumb {
         margin-right: 24px

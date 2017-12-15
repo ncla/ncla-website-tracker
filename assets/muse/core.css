@@ -1613,9 +1613,9 @@ ul.storeLinks li a .flagAU {
 .socialCompact .at16nc.at16t_twitter,
 .socialCompact .at16nc.at16t_compact,
 .socialCompact .at16nc.at16t_expanded {
-    height: 20px!important;
-    line-height: 20px!important;
-    width: 20px!important;
+    height: 20px !important;
+    line-height: 20px !important;
+    width: 20px !important;
     background: url('/_static/local/images/sprite1.png?1') no-repeat -80px -290px
 }
 
@@ -2506,7 +2506,7 @@ ul.photoList li h3.blockTitle {
     width: 126px;
     margin: 0 10px 10px 0;
     min-height: 226px;
-    height: auto!important;
+    height: auto !important;
     height: 226px
 }
 
@@ -2598,7 +2598,7 @@ ul.photoList li h3.blockTitle {
 .moduleNewsView article .newsBody iframe {
     max-width: 100%;
     min-height: 360px;
-    height: auto!important;
+    height: auto !important;
     height: 360px
 }
 
@@ -2617,7 +2617,7 @@ ul.photoList li h3.blockTitle {
 .mediaHolder object,
 .mediaHolder embed,
 .mediaHolder iframe {
-    width: 100%!important
+    width: 100% !important
 }
 
 .moduleMusic .packshotWrap {
@@ -3017,7 +3017,7 @@ ul.destinations li.members h4 a {
     z-index: 980;
     width: 48%;
     min-height: 150px;
-    height: auto!important;
+    height: auto !important;
     height: 150px;
     background: #fff;
     color: #353535
@@ -3366,7 +3366,7 @@ ul.destinations li.members h4 a {
     width: 32%;
     margin-right: 1%;
     min-height: 100px;
-    height: auto!important;
+    height: auto !important;
     height: 100px
 }
 
